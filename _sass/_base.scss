@@ -736,8 +736,8 @@ header.masthead {
   overflow-x: hidden;
   padding-top: calc(0.88*5rem + 55px);
   padding-bottom: 0.88*7rem;
-  background: url('../img/assets/melb3.jpg');
-  animation: backgroundAnimation 15s linear infinite;
+  background: url('../img/assets/AugmentedHumansHeader25.png');
+  // animation: backgroundAnimation 15s linear infinite;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -747,7 +747,7 @@ header.masthead {
     padding-bottom: 0.88*1rem;
     max-height: 205px;
     padding-top: 20px;
-    background-image: none;
+    // background-image: none;
     background-color: $theme-primary;
   }
   background-repeat: no-repeat;
@@ -780,7 +780,7 @@ header.masthead {
       font-weight: 100;
       color: $theme-offwhite;
       background-color: rgba(0, 56, 101, 0.9);
-      background: linear-gradient(135deg, $theme-background-primary 60%, $theme-background-secondary 90%);
+      background: linear-gradient(135deg, #c60017 60%, #D96A6C 90%);
       border: 5px solid #fff;
 
     }
@@ -1714,17 +1714,17 @@ section.flip2, .kw-blog-post .post-content, .kw-conference-location {
     .name {
       margin-top: 20px;
       font-size: large;
-      color:white ;
+      color:#3F3446 ;
     }
 
     a:link, a:visited{
-      color: white;
+      color: #c41a2e;
       font-size: large;
       text-decoration: underline;
     }
 
     a:hover, a:active {
-      color: #3F3446;
+      color: #c41a2e;
     }
   
     .position {
@@ -1764,7 +1764,36 @@ section.flip2, .kw-blog-post .post-content, .kw-conference-location {
   }
 }
 
-#sessions {
+#hotels {
+  table {
+      // border-collapse: collapse;
+      width: 100%;
+      margin-bottom: 40px;
+
+  }
+
+  td,th {
+      // text-align: left;
+      padding: 16px;
+      color: #c41a2e;
+      font-size: larger;
+      border: 2px solid black;
+  }
+
+  .tr-break {
+    background-color: $theme-background-tertiary;
+  }
+
+  ul{
+    color: #c41a2e;
+  }
+
+  p{
+    color:black;
+  }
+}
+
+#sessions, #posters {
   table {
       // border-collapse: collapse;
       width: 100%;
@@ -1774,16 +1803,16 @@ section.flip2, .kw-blog-post .post-content, .kw-conference-location {
   td,th {
     // text-align: left;
     padding: 10px 10px 10px 10px;
-    color: black;
+    color: white;
     font-size: larger;
-    border: 1px solid black !important;
+    // border: 1px solid black !important;
   }
 
   p.authors, a.doi {
-    color: black;
+    color: #c41a2e;
     font-style: italic;
     font-size: 90%;
-    margin-bottom: 0;
+    // margin-bottom: 0;
   }
 
 
@@ -1791,7 +1820,7 @@ section.flip2, .kw-blog-post .post-content, .kw-conference-location {
     td,th {
         // text-align: left;
         padding: 10px 100px 10px 10px;
-        color: black;
+        color: white;
         font-size: larger;
         border: 1px solid black !important;
     }

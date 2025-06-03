@@ -13,6 +13,7 @@ cfp-title: Calls for Participation
 cfp: |
   The Augmented Humans conference offers many different possibilities for publishing, presenting, and discussing your work.
   Take a look at the <b>Calls for Participation</b> page for more information regarding the submission categories, guidelines, and more.
+  To register as a student volunteer, please follow the instructions <a style="color:#c41a2e"href="/student-volunteer">here</a>
   <a href="/calls-for-participation" class="btn btn-md" style="background-color: #F5F5F5; border: 2px solid #003865; color: black !important; margin-top: 25px;" onMouseOver="this.style['background-color']='#c41a2e'" onMouseOut="this.style['background-color']='#F5F5F5'">Calls for Participation</a>
 
 
@@ -83,6 +84,8 @@ overview: |
 
   For the first time this year, dedicated workshops will also be part of the conference. The deadline for workshop proposals can be found below. The approved workshops and their corresponding websites will also be linked here in due time.
 
+  To register as a student volunteer, please follow the instructions <a style="color:#c41a2e"href="/student-volunteer">here</a>
+
 
 # <b>Full papers</b> – up to 10 pages excluding references, anonymized, 7 minutes presentation, 7 minutes Q&A, invited demo
 # <b>Short papers</b> - 4 pages excluding references, anonymized, 5 minutes presentation, 7 minutes Q&A, invited demo
@@ -117,15 +120,18 @@ deadlines: |
 
     <tr>
       <td><strong>Full/Short Paper/</strong> Submission Deadline</td>
-      <td>16th January, 2025 (AoE)</td> 
+      <td><s>16th January, 2025 (AoE)</s></td>
+      <td>23rd January, 2025 (AoE)</td>
     </tr>
     <tr>
       <td><strong>Full/Short Paper</strong> Decisions sent to Author</td>
-      <td>13th February, 2025 (AoE)</td> 
+      <td><s>13th February, 2025 (AoE)</s></td> 
+      <td>20th February, 2025 (AoE)</td>
     </tr>
     <tr>
       <td><strong>Full/Short Paper</strong> Camera-Ready</td>
-      <td>27th February, 2025 (AoE)</td> 
+      <td><s>27th February, 2025 (AoE)</s></td> 
+      <td>6th March, 2025 (AoE)</td> 
     </tr>
 
         <tr class="tr-break">
@@ -142,7 +148,7 @@ deadlines: |
     </tr>
     <tr>
       <td><strong>Special Fast track</strong> Camera-Ready</td>
-      <td>27th February, 2025 (AoE)</td> 
+      <td>6th March, 2025 (AoE)</td> 
     </tr>
 
     <tr class="tr-break">
@@ -151,15 +157,17 @@ deadlines: |
 
     <tr>
       <td><strong>Poster/Demos/Workshop</strong> Submission Deadline</td>
-      <td>13th February, 2025 (AoE)</td> 
-    </tr>
-    <tr>
-      <td><strong>Poster/Demos/Workshop</strong> Decisions sent to Author</td>
+      <td><s>13th February, 2025 (AoE)</s></td> 
       <td>20th February, 2025 (AoE)</td> 
     </tr>
     <tr>
+      <td><strong>Poster/Demos/Workshop</strong> Decisions sent to Author</td>
+      <td><s>20th February, 2025 (AoE)</s></td>
+      <td>23rd February, 2025 (AoE)</td>  
+    </tr>
+    <tr>
       <td><strong>Poster/Demos/Workshop</strong> Camera-Ready</td>
-      <td>27th February, 2025 (AoE)</td> 
+      <td>6th March, 2025 (AoE)</td> 
     </tr>
 
     </table> 
@@ -168,4 +176,4 @@ deadlines: |
 
 add-title: Additional Information
 add: |
-  At least one author of each accepted paper must register for the conference and present the paper in Melbourne. Exceptions of in-person presentations can be granted in emergency situations (e.g., visa issues) upon request from the general chairs. If you are in such a situation please contact the general chairs via e-mail.
+  At least one author of each accepted paper must register for the conference and present the paper in Abu Dhabi. Exceptions of in-person presentations can be granted in emergency situations (e.g., visa issues) upon request from the general chairs. If you are in such a situation please contact the general chairs via e-mail.

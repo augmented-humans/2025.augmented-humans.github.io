@@ -16,29 +16,46 @@ shortlinks:
         shortcut: /call-for-demos
       - title: Call for Posters
         shortcut: /call-for-posters
+      - title: Student Volunteers
+        shortcut: /student-volunteer
+  - title: Attending
+    shortcut: /attending
+    sublinks:
+      - title: Registration
+        shortcut: /attending
+      - title: Location
+        shortcut: /location
+      - title: Travel
+        shortcut: /travel
+        # sublinks:
+        # - title: Visa
+        #   shortcut: /visa
+        # - title: Guidelines
+        #   shortcut: /guidelines
+      - title: Hotels & Transportation
+        shortcut: /hotels
   # - title: Attending
   #   shortcut: /attending
   #   sublinks:
   #     - title: Registration
-  #       shortcut: /registration
-  #     - title: Location
-  #       shortcut: /location
-  - title: Location
-    shortcut: /location
+  #       shortcult:/registration
+  #     - title: 
 
       
       #  shortcut: https://www.eventbrite.co.uk/e/augmented-humans-2023-registration-tickets-490538553017
-  # - title: Program
-  #   shortcut: /program
-  #   sublinks:
+  - title: Program
+    shortcut: /program
+    sublinks:
   #     - title: Keynote
   #       shortcut: /keynote
-  #     - title: List of Workshops
-  #       shortcut: /list-of-workshops
+      - title: Program
+        shortcut: /program
+      - title: List of Workshops
+        shortcut: /list-of-workshops
   #     - title: Mentoring
   #       shortcut: /mentoring
-  # - title: Committee
-  #   shortcut: /committee
+  - title: Committee
+    shortcut: /committee
   - title: Past conferences
     shortcut: /previous-conferences
 
